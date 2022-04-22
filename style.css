@@ -1,0 +1,6 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow: hidden; /* no clue why window.innerheight & window.innerwidth are bigger than the window. */
+}
